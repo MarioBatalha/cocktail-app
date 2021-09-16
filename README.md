@@ -10,7 +10,7 @@ Cocktails app
 
 
 <h1 align="center">
-  <img alt="Cocktails" height=70%" width="100%" title="Template" src="./src/asset/img/Cocktails.png" />
+  <img alt="Cocktails" height=70%" width="100%" title="Template" src="./src/asset/img/cocktails.png" />
 </h1> 
 
 ## Summary
